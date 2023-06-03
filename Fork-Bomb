@@ -1,9 +1,0 @@
-FORK BOMB METHODS
-
-Just execute this this tiny code in Linux shell
-Seriously Guys , this is the Most simple dangerous command i have ever seen . My Whole server crashed ;)
-
-```
-:(){ :|:& };:
-```
-THATS IT . TO KNOW HOW THIS CODE WORKS You can Look this page -> https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/
