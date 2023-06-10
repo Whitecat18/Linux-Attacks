@@ -7,5 +7,3 @@ Dont use these scripts on Real Linux Systems . test it on VM's . An not responsi
 **Only For Education Purpose only**
 
 By Smukx
-
-Proof ? ;) -> <a href="http://bitcloud.bitsathy.ac.in" > Click Here </a>
