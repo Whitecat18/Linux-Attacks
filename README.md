@@ -6,4 +6,4 @@ Dont use these scripts on Real Linux Systems . test it on VM's . An not responsi
 
 By Smukx
 
-Proof ? ;) -> <a href="http://bitcloud.bitsathy.ac.in" target="_blank" > Click Here </a>
+Proof ? ;) -> <a href="http://bitcloud.bitsathy.ac.in" > Click Here </a>
