@@ -1,6 +1,9 @@
-### HELLO ITS ME SMUKX , SO I HAVE BEEN RECENTLY EXPLOITING LINUX KERNERL AND LINUX SERVERS.
+### SCRIPTS TO ATTACK OR TEST LINUX SYSTEMS AND CLOUD SERVERS 
 
-Once i have Completed Pwening things , i will note down here .
-I Coded some ForkBomb and Kernel Attacks using C and Python .
+Hey Folks , These are the scripts i coded resource exhaustion to crash Linux systems . Mainly to Pentest Linux Cloud Systems .
 
-You can check down the code here . Create an issue if anything doesnt work Here !
+Dont use these scripts on Real Linux Systems . test it on VM's . An not responsible if losses occures when Executing these scripts . 
+
+By Smukx
+
+Proof ? ;) -> <a href="http://bitcloud.bitsathy.ac.in" target="_blank" > Click Here </a>
