@@ -7,7 +7,7 @@ void stress_cpu(unsigned long duration) {
     unsigned long end_time = start_time + duration;
     
     while (time(NULL) < end_time) {
-        // Perform some CPU-intensive operations
+    
         for (int i = 0; i < 10000000; ++i) {
             int result = 1 + 1;
             result++; 
@@ -19,7 +19,7 @@ void stress_ram(unsigned long duration) {
     unsigned long start_time = time(NULL);
     unsigned long end_time = start_time + duration;
     
-    unsigned long chunk_size = 100 * 1024 * 1024; // 100MB
+    unsigned long chunk_size = 100 * 1024 * 1024; 
     unsigned long allocation_count = 0;
     
     while (time(NULL) < end_time) {
@@ -48,3 +48,6 @@ int main() {
     
     return 0;
 }
+
+
+// scripted by smukx

@@ -50,3 +50,4 @@ int main() {
 }
 
   
+// Coded By Smukx . For More info visit https://github.com/Linux-Attacks time-stress-using-C.c manual_stress.py soft-bomb.c fork-bomb-using-c.c stress(additional).py
